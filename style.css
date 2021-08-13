@@ -1,0 +1,47 @@
+body
+{
+    background-color: rgb(21, 226, 233);
+}
+
+ol h5
+{
+	background: seagreen;
+    padding: 13px;
+    border-radius: 20px;
+}
+
+li img
+{
+	border-radius: 30px;
+}
+
+.bob
+{
+	background: springgreen;
+	padding: 40px;
+	border-radius: 30px;
+	margin-top: 50px;
+	box-shadow: 20px 20px 40px orangered;
+}
+
+.bob3
+{
+	text-align: center;
+	color: royalblue;
+}
+
+.result
+{
+	box-shadow: 5px 5px 18px grey;
+	letter-spacing: 2px;
+	background: #F2BAC9;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid grey
+}
+
+b
+{
+    color: violet;
+}
